@@ -19,7 +19,7 @@
     "@sanity/core": "^1.148",
     "@sanity/dashboard": "^1.148",
     "@sanity/default-layout": "^1.148",
-    "@sanity/default-login": "^1.148",
+    "@sanity/default-login": "^2.10",
     "@sanity/desk-tool": "^1.148",
     "@sanity/studio-hints": "^1.148",
     "date-fns": "^1.30.1",
